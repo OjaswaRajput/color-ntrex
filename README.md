@@ -1,1 +1,1 @@
-# color-ntrex
+# color-trex
